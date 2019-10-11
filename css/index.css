@@ -169,14 +169,18 @@ p {
   margin: auto;
 }
 .container .intro nav #banner h1 {
-  font-size: 4rem;
+  display: flex;
   justify-content: center;
+  align-self: center;
+  font-size: 4rem;
   padding: 2px;
 }
 .container .intro nav #banner a {
   justify-content: center;
   justify-content: space-around;
   font-size: 1.8rem;
+  color: #22283A;
+  padding: 20px;
 }
 footer {
   color: #22283B;
