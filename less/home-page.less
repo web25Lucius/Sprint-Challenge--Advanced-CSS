@@ -30,11 +30,15 @@
       height: 100%;
       }
 
-      img .nan {
+      img .space-images .nan{
+        width: 28%;
+        margin: 20px 2.5%;
+        border-radius: 20px;
+        height: 100%;
+        }
         @media @phone {
           display: none; 
-      }
-     }
+        }
     }
 
   .visit-planets {
@@ -63,6 +67,12 @@
           flex-direction: reverse column; 
         }
 
+      .walk-img{
+        @media @phone{
+          display: none;
+        } 
+      }
+
       h3 {
         margin-bottom: 10px;
       }
@@ -89,7 +99,7 @@
            color: #ffffff; 
            border-radius: 5px; 
            border: #22283A 3px solid; 
-           .customflex(stretch, center); 
+           .customflex(center, center); 
           }
         }
       }
