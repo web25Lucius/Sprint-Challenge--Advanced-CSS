@@ -269,6 +269,13 @@ footer {
   width: 150px;
   height: 60px;
   padding: 10px;
+  justify-content: center;
+}
+.home .walk .btn:hover {
+  background-color: #32a852;
+  color: #e0f21d;
+  width: 200px;
+  justify-content: center;
 }
 @media (max-width: 500px) {
   .home .walk .btn {
