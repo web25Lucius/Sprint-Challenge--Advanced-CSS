@@ -133,7 +133,7 @@ _You will know everything is working properly when you see the styles enabled fo
 * [x] Push your changes and create a pull request if you haven't already.
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
-
+MVP Done 
 ## Stretch Problems
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
@@ -144,4 +144,4 @@ After finishing your required elements, you can push your work further. These go
 
 * [ ] Create a fixed navigation and add some opacity to the background
 
-* [x] Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription
+* [ ] Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription
