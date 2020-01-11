@@ -162,9 +162,8 @@ p {
 }
 nav div {
   display: flex;
-  justify-content: center;
   align-self: center;
-  justify-content: space-around;
+  justify-content: center;
   padding: 20px;
   background-color: #f6f6f6;
 }
@@ -177,6 +176,13 @@ nav div a {
   font-weight: bold;
   color: #22283A;
   background-color: #f6f6f6;
+  padding: 0 20px 0 20px;
+  text-decoration: none;
+}
+@media (max-width: 500px) {
+  nav div a {
+    font-size: 1.4rem;
+  }
 }
 footer {
   color: #22283B;
